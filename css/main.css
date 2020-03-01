@@ -270,7 +270,7 @@ header.sticky .top-nav #side-logo{
 #banner-area{
     position: relative;
     height: 100vh;
-    background-image: url('../img/bg.webp');
+    background-image: url('../img/bg.jpg');
     background-position: center center;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -317,7 +317,7 @@ header.sticky .top-nav #side-logo{
     display: flex;
     margin-top: -60%;
     width: 100%;
-    /* background: url('../img/bg.webp'); */
+    /* background: url('../img/bg.jpg'); */
     /* background-position: center center;
     background-size: cover;
     background-repeat: no-repeat; */
